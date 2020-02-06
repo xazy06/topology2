@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\user\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\user\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TopologyBack.1401766887.00" t="ExcludeRecursive" />
+    <e p="I:\projects\TopologyBack2" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TopologyBack" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="index.html" t="Include" />
+        <e p="MainController.cs" t="Include" />
+        <e p="Model.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="TopologyBack.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Prototype.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="TopologyBack.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TopologyBack.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

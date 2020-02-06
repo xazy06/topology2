@@ -1,0 +1,12 @@
+D:\Projects\TopologyBack\TopologyBack\bin\Debug\netcoreapp1.1\appsettings.json
+D:\Projects\TopologyBack\TopologyBack\bin\Debug\netcoreapp1.1\TopologyBack.deps.json
+D:\Projects\TopologyBack\TopologyBack\bin\Debug\netcoreapp1.1\TopologyBack.runtimeconfig.json
+D:\Projects\TopologyBack\TopologyBack\bin\Debug\netcoreapp1.1\TopologyBack.runtimeconfig.dev.json
+D:\Projects\TopologyBack\TopologyBack\bin\Debug\netcoreapp1.1\TopologyBack.dll
+D:\Projects\TopologyBack\TopologyBack\bin\Debug\netcoreapp1.1\TopologyBack.pdb
+D:\Projects\TopologyBack\TopologyBack\obj\Debug\netcoreapp1.1\TopologyBack.csprojResolveAssemblyReference.cache
+D:\Projects\TopologyBack\TopologyBack\obj\Debug\netcoreapp1.1\TopologyBack.csproj.CoreCompileInputs.cache
+D:\Projects\TopologyBack\TopologyBack\obj\Debug\netcoreapp1.1\TopologyBack.AssemblyInfoInputs.cache
+D:\Projects\TopologyBack\TopologyBack\obj\Debug\netcoreapp1.1\TopologyBack.AssemblyInfo.cs
+D:\Projects\TopologyBack\TopologyBack\obj\Debug\netcoreapp1.1\TopologyBack.dll
+D:\Projects\TopologyBack\TopologyBack\obj\Debug\netcoreapp1.1\TopologyBack.pdb
