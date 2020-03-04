@@ -95,7 +95,7 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
-            "Swashbuckle.AspNetCore": {
+            "Swagger": {
               "target": "Package",
               "version": "[1.0.0, )"
             },
@@ -106,6 +106,10 @@
             "Swashbuckle.AspNetCore.SwaggerUi": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "runtime.linux-x64.Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
             }
           },
           "imports": [

@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using Swashbuckle.AspNetCore.Swagger;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -31,14 +30,7 @@ namespace Topology
         {
             // Add framework services.
             services.AddMvc();
-
-
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new Info { Title = "Scouts API", Version = "v1" });
-                
-            });
-
+            
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {
                 builder.AllowAnyOrigin()
@@ -65,7 +57,7 @@ namespace Topology
                     template: "{controller=Home}/{action=Index}");
             });
 
-            app.UseSwagger();
+            // app.UseSwagger();
             
             app.UseFileServer();
 
