@@ -21,7 +21,7 @@
     <PackageReference Include="runtime.linux-x64.Microsoft.NETCore.App" Version="2.2.8" />
     <PackageReference Include="Swagger" Version="1.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="1.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="1.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
